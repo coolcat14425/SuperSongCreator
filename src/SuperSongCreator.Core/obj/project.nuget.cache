@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "+ZdyAIHDMDjzaJzsa3t645ZzssJGtxfjep0g6CgGtpK/s6FPbz3Lo8kkPYXMnLet9zoDUSM8hDHqueQBdFJqkg==",
+  "dgSpecHash": "KAyvqBB7AhE=",
   "success": true,
   "projectFilePath": "C:\\Users\\churt\\source\\repos\\SuperSongCreator\\src\\SuperSongCreator.Core\\SuperSongCreator.Core.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\churt\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
     "C:\\Users\\churt\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",
-    "C:\\Users\\churt\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+    "C:\\Users\\churt\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512",
+    "C:\\Users\\churt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\churt\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\churt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }

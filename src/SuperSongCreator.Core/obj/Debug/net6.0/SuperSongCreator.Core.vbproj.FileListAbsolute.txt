@@ -1,0 +1,13 @@
+C:\Users\churt\source\repos\SuperSongCreator\src\SuperSongCreator.Core\bin\Debug\net6.0\SuperSongCreator.Core.deps.json
+C:\Users\churt\source\repos\SuperSongCreator\src\SuperSongCreator.Core\bin\Debug\net6.0\SuperSongCreator.Core.dll
+C:\Users\churt\source\repos\SuperSongCreator\src\SuperSongCreator.Core\bin\Debug\net6.0\SuperSongCreator.Core.pdb
+C:\Users\churt\source\repos\SuperSongCreator\src\SuperSongCreator.Core\obj\Debug\net6.0\SuperSongCreator.Core.vbproj.AssemblyReference.cache
+C:\Users\churt\source\repos\SuperSongCreator\src\SuperSongCreator.Core\obj\Debug\net6.0\SuperSongCreator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churt\source\repos\SuperSongCreator\src\SuperSongCreator.Core\obj\Debug\net6.0\SuperSongCreator.Core.AssemblyInfoInputs.cache
+C:\Users\churt\source\repos\SuperSongCreator\src\SuperSongCreator.Core\obj\Debug\net6.0\SuperSongCreator.Core.AssemblyInfo.vb
+C:\Users\churt\source\repos\SuperSongCreator\src\SuperSongCreator.Core\obj\Debug\net6.0\SuperSongCreator.Core.vbproj.CoreCompileInputs.cache
+C:\Users\churt\source\repos\SuperSongCreator\src\SuperSongCreator.Core\obj\Debug\net6.0\SuperSongCreator.Core.sourcelink.json
+C:\Users\churt\source\repos\SuperSongCreator\src\SuperSongCreator.Core\obj\Debug\net6.0\SuperSongCreator.Core.dll
+C:\Users\churt\source\repos\SuperSongCreator\src\SuperSongCreator.Core\obj\Debug\net6.0\refint\SuperSongCreator.Core.dll
+C:\Users\churt\source\repos\SuperSongCreator\src\SuperSongCreator.Core\obj\Debug\net6.0\SuperSongCreator.Core.pdb
+C:\Users\churt\source\repos\SuperSongCreator\src\SuperSongCreator.Core\obj\Debug\net6.0\ref\SuperSongCreator.Core.dll

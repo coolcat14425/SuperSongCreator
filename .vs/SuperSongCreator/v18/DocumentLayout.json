@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\churt\\source\\repos\\SuperSongCreator\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74BB405-BB95-4324-BDD7-64D4F4A5D4E5}|src\\SuperSongCreator.WinForms\\SuperSongCreator.WinForms.vbproj|c:\\users\\churt\\source\\repos\\supersongcreator\\src\\supersongcreator.winforms\\settingsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A74BB405-BB95-4324-BDD7-64D4F4A5D4E5}|src\\SuperSongCreator.WinForms\\SuperSongCreator.WinForms.vbproj|solutionrelative:src\\supersongcreator.winforms\\settingsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74BB405-BB95-4324-BDD7-64D4F4A5D4E5}|src\\SuperSongCreator.WinForms\\SuperSongCreator.WinForms.vbproj|c:\\users\\churt\\source\\repos\\supersongcreator\\src\\supersongcreator.winforms\\settingsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A74BB405-BB95-4324-BDD7-64D4F4A5D4E5}|src\\SuperSongCreator.WinForms\\SuperSongCreator.WinForms.vbproj|solutionrelative:src\\supersongcreator.winforms\\settingsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74BB405-BB95-4324-BDD7-64D4F4A5D4E5}|src\\SuperSongCreator.WinForms\\SuperSongCreator.WinForms.vbproj|c:\\users\\churt\\source\\repos\\supersongcreator\\src\\supersongcreator.winforms\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A74BB405-BB95-4324-BDD7-64D4F4A5D4E5}|src\\SuperSongCreator.WinForms\\SuperSongCreator.WinForms.vbproj|solutionrelative:src\\supersongcreator.winforms\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingsForm.vb",
+              "DocumentMoniker": "C:\\Users\\churt\\source\\repos\\SuperSongCreator\\src\\SuperSongCreator.WinForms\\SettingsForm.vb",
+              "RelativeDocumentMoniker": "src\\SuperSongCreator.WinForms\\SettingsForm.vb",
+              "ToolTip": "C:\\Users\\churt\\source\\repos\\SuperSongCreator\\src\\SuperSongCreator.WinForms\\SettingsForm.vb",
+              "RelativeToolTip": "src\\SuperSongCreator.WinForms\\SettingsForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-01T03:44:14.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\churt\\source\\repos\\SuperSongCreator\\src\\SuperSongCreator.WinForms\\SettingsForm.vb",
+              "RelativeDocumentMoniker": "src\\SuperSongCreator.WinForms\\SettingsForm.vb",
+              "ToolTip": "C:\\Users\\churt\\source\\repos\\SuperSongCreator\\src\\SuperSongCreator.WinForms\\SettingsForm.vb [Design]",
+              "RelativeToolTip": "src\\SuperSongCreator.WinForms\\SettingsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-01T03:44:08.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\churt\\source\\repos\\SuperSongCreator\\src\\SuperSongCreator.WinForms\\Program.vb",
+              "RelativeDocumentMoniker": "src\\SuperSongCreator.WinForms\\Program.vb",
+              "ToolTip": "C:\\Users\\churt\\source\\repos\\SuperSongCreator\\src\\SuperSongCreator.WinForms\\Program.vb",
+              "RelativeToolTip": "src\\SuperSongCreator.WinForms\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-01T03:43:31.31Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"

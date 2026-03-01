@@ -13,12 +13,12 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("SuperSongCreator.Winforms"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("SuperSongCreator.WinForms"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("SuperSongCreator.Winforms"),  _
- Assembly: System.Reflection.AssemblyTitleAttribute("SuperSongCreator.Winforms"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd26706a80e6745405d4e164e47638165d52c78d"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("SuperSongCreator.WinForms"),  _
+ Assembly: System.Reflection.AssemblyTitleAttribute("SuperSongCreator.WinForms"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 

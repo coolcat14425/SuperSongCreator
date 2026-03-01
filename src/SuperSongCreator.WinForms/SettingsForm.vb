@@ -1,3 +1,4 @@
+Imports System.Windows.Forms
 Imports SuperSongCreator.Core.Domain
 
 Public Class SettingsForm
